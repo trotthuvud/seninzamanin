@@ -1,0 +1,11 @@
+# İşletim sistemi ve geçici dosyalar
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Editör dosyaları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
