@@ -9,3 +9,6 @@ Thumbs.db
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# Yerel yardımcı scriptler
+*.bat
